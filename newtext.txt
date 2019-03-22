@@ -3,3 +3,4 @@ Git是免费软件归属GPL
 Git有一个叫做阶段的可变索引
 Git一直在变化文件跟踪
 创建分支dev
+master提交
